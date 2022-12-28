@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="540.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.intech.bindingofisaac.controller.GameOverController">
+	<children>
+		<ImageView fx:id="imageBackground" fitHeight="540.0" fitWidth="960.0" />
+		<Button fx:id="buttonReplay" layoutX="716.0" layoutY="328.0" mnemonicParsing="false" onAction="#replayGame" prefHeight="212.0" prefWidth="244.0" style="-fx-background-color: transparent;" styleClass="bReplay">
+			<font>
+				<Font size="1.0" />
+			</font>
+			<graphic>
+				<ImageView styleClass="bReplay" />
+			</graphic>
+         <padding>
+            <Insets bottom="-2.0" right="-20.0" />
+         </padding>
+		</Button>
+		<Button fx:id="buttonExit" layoutY="335.0" mnemonicParsing="false" onAction="#logout" prefHeight="197.0" prefWidth="279.0" style="-fx-background-color: transparent;" styleClass="bExit">
+			<graphic>
+				<ImageView styleClass="bExit" />
+			</graphic>
+         <padding>
+            <Insets bottom="-20.0" left="-20.0" />
+         </padding>
+		</Button>
+		<ImageView fx:id="imageScore" layoutX="258.0" layoutY="5.0" rotate="-15.0" />
+	</children>
+</AnchorPane>

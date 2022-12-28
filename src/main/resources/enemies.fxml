@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="scene" prefHeight="620.0" prefWidth="794.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.intech.bindingofisaac.controller.EnnemisController">
+<!-- 	<ImageView fx:id="fly1" fitHeight="33.0" fitWidth="47.0" layoutX="470.0" layoutY="239.0" pickOnBounds="true" preserveRatio="true"> -->
+<!-- 		<image> -->
+<!-- 			<Image url="@3.png" /> -->
+<!-- 		</image> -->
+<!-- 	</ImageView> -->
+<!-- 	<ImageView fx:id="fly2" fitHeight="31.0" fitWidth="47.0" layoutX="514.0" layoutY="279.0" pickOnBounds="true" preserveRatio="true"> -->
+<!-- 		<image> -->
+<!-- 			<Image url="@3.png" /> -->
+<!-- 		</image> -->
+<!-- 	</ImageView> -->
+<!-- 	<ImageView fx:id="fly3" fitHeight="26.0" fitWidth="47.0" layoutX="438.0" layoutY="212.0" pickOnBounds="true" preserveRatio="true"> -->
+<!-- 		<image> -->
+<!-- 			<Image url="@3.png" /> -->
+<!-- 		</image> -->
+<!-- 	</ImageView> -->
+<!-- 	<ImageView fx:id="fly4" fitHeight="33.0" fitWidth="47.0" layoutX="434.0" layoutY="272.0" pickOnBounds="true" preserveRatio="true"> -->
+<!-- 		<image> -->
+<!-- 			<Image url="@3.png" /> -->
+<!-- 		</image> -->
+<!-- 	</ImageView> -->
+<!-- 	<ImageView fx:id="fly5" fitHeight="33.0" fitWidth="47.0" layoutX="514.0" layoutY="212.0" pickOnBounds="true" preserveRatio="true"> -->
+<!-- 		<image> -->
+<!-- 			<Image url="@3.png" /> -->
+<!-- 		</image> -->
+<!-- 	</ImageView> -->
+<!-- 	<ImageView fx:id="followHead2" fitHeight="53.0" fitWidth="60.0" layoutX="131.0" layoutY="378.0" pickOnBounds="true" preserveRatio="true"> -->
+<!--          <image> -->
+<!--             <Image url="@followHead2.png" /> -->
+<!--          </image> -->
+<!--       </ImageView> -->
+<!--       <ImageView fx:id="followhead1" fitHeight="53.0" fitWidth="53.0" layoutX="138.0" layoutY="77.0" pickOnBounds="true" preserveRatio="true"> -->
+<!--          <image> -->
+<!--             <Image url="@followHead1.png" /> -->
+<!--          </image> -->
+<!--       </ImageView> -->
+<!-- 	 <ImageView fx:id="ennemie1" fitHeight="53.0" fitWidth="59.0" layoutX="746.0" layoutY="77.0" pickOnBounds="true" preserveRatio="true"> -->
+<!--          <image> -->
+<!--             <Image url="@images/ennemie1.png" />-->
+<!--          </image> -->
+<!--		</ImageView> -->
+<!--       <ImageView fx:id="ennemie2" fitHeight="40.0" fitWidth="40.0" layoutX="741.0" layoutY="405.0" pickOnBounds="true" preserveRatio="true"> -->
+<!--          <image> -->
+<!--             <Image url="@images/ennemie2.png" /> -->
+<!--          </image> -->
+<!--       </ImageView> -->
+<!--    <ImageView fx:id="balle1" fitHeight="21.0" fitWidth="33.0" layoutX="154.0" layoutY="104.0" pickOnBounds="true" preserveRatio="true"> -->
+<!--       <image> -->
+<!--          <Image url="@bulletEn.png" /> -->
+<!--       </image> -->
+<!--    </ImageView> -->
+<!--    <ImageView fx:id="balle2" fitHeight="21.0" fitWidth="33.0" layoutX="147.0" layoutY="405.0" pickOnBounds="true" preserveRatio="true"> -->
+<!--       <image> -->
+<!--          <Image url="@bulletEn.png" /> -->
+<!--       </image> -->
+<!--    </ImageView> -->
+      
+</AnchorPane>

@@ -1,0 +1,62 @@
+.bP {
+	-fx-image: url(images/playBtnOff.png);
+}
+.bP:hover {
+	-fx-graphic: url(images/playBtnOn.png);
+
+}
+
+.bReplay {
+	-fx-image: url(RestartButton.png)
+}
+
+.bReplay:hover {
+	-fx-graphic: url(RestartButtonHover.png);
+}
+
+.bExit {
+	-fx-image: url(ExitButton.png)
+}
+
+.bExit:hover {
+	-fx-graphic: url(ExitButtonHover.png);
+}
+
+.bE {
+	-fx-image: url(images/exitBtnOff.png);
+}
+.bE:hover {
+	-fx-graphic: url(images/exitBtnOn.png);
+
+}
+.Isaac {
+	-fx-image: url(images/logo.png);
+}
+
+.Boss {
+	-fx-image: url(images/boss.png);
+}
+
+.musicLogoOn {
+	-fx-image: url(images/musicLogoOn.png);
+}
+
+.musicLogoOff {
+	-fx-image: url(images/musicLogoOff.png);
+}
+
+.background {
+	-fx-image: url(images/menu_background.png);
+}
+
+@font-face {
+    src: url('fonts/main_font.ttf');
+}
+
+.text {
+    -fx-font-family: "Gamegirl Classic";
+}
+
+.label {
+  	-fx-font-family: "Gamegirl Classic";
+}
