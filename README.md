@@ -1,14 +1,14 @@
-#OBJECTIF
+# OBJECTIF
 
 Créer un jeu de plateforme 2D en Java avec un système de déplacements et de tirs, avec des ennemis et des bonus.
 Le jeu sera composé de plusieurs salles qui seront générées procéduralement jusqu'à atteindre une salle de boss.
 Le jeu se termine sur la défaite du boss, qui est un ennemi plus coriace que les autres.
 
-#TECHNOLOGIES
+# TECHNOLOGIES
 
 Java, JavaFx, Html, Css
 
-#SCREENSHOT
+# SCREENSHOT
 
 - L'accueil :
 <img width="716" alt="accueil" src="https://user-images.githubusercontent.com/73828008/209837715-6f63ca80-ded7-4700-b9d8-1be71f791628.png">
